@@ -1,2 +1,4 @@
 .env
 .venv/
+audit_log.db
+__pycache__/
